@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-## Sobre mim
-
 Meu nome é **Filipe Rangel**.  
 Atualmente, estou cursando **Tecnólogo em Inteligência Artificial e Aprendizado de Máquina** pela **UNIASSELVI**, com previsão de conclusão em **junho de 2026**.
 
