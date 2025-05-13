@@ -36,6 +36,6 @@ No momento, estou focado em desenvolver **projetos pessoais**, com o objetivo de
 
 ---
 
-Obrigado por visitar meu perfil! 😊  
+Obrigado por visitar meu perfil! 
 Sinta-se à vontade para acompanhar meus projetos.
 
