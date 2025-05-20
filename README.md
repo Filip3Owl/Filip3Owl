@@ -1,29 +1,34 @@
 # Hi there! 👋
 
-Meu nome é **Filipe Rangel**.  
-Atualmente, estou cursando **Tecnólogo em Inteligência Artificial e Aprendizado de Máquina** pela **UNIASSELVI**, com previsão de conclusão em **junho de 2026**.
+My name is **Filipe Rangel**.
 
-Moro em **Florianópolis - SC**, e sou apaixonado por **Estatística** e **Machine Learning**.  
-No momento, estou focado em desenvolver **projetos pessoais**, com o objetivo de aprimorar minhas habilidades práticas em **Inteligência Artificial**.
+I am currently studying **Technology in Artificial Intelligence and Machine Learning** at **UNIASSELVI**, with an expected completion date of **June 2026**.
+
+I live in **Florianópolis - SC**, and I am passionate about **Statistics** and **Machine Learning**.
+
+At the moment, I am focused on developing **personal projects**, with the aim of improving my practical skills in **Artificial Intelligence**.
+
+---
+## 🎯 Current goals
+
+- 💡 Develop projects applying AI in the real world.
+
+- 📚 Improve knowledge in applied Statistics.
+
+- 🧪 Explore more Machine Learning techniques.
+
+- 🎓 I intend to pursue a postgraduate degree in **Data Science**.
 
 ---
 
-## 🎯 Objetivos atuais
+## 📜 Certifications
 
-- 💡 Desenvolver projetos aplicando IA no mundo real.
-- 📚 Aprimorar conhecimentos em Estatística aplicada.
-- 🧪 Explorar mais técnicas de Machine Learning.
-- 🎓 Pretendo seguir para uma pós-graduação em **Ciência de Dados**.
-
----
-
-## 📜 Certificações
-
-- Estatística Básica com uso do software **R**.
-- Desenvolvimento de **Chatbots**.
-- Modelagem de **Banco de Dados Relacional**.
-- **Lei Geral de Proteção de Dados (LGPD)**.
-- Outros cursos complementares em **Tecnologia e Dados**.
+- Basic Statistics using **R** software.
+- What is data science? from IBM
+- Data science tools from IBM
+- Modeling of **Relational Database**.
+- **General Data Protection Law (LGPD)**.
+- Other complementary courses in **Technology and Data**.
 
 ---
 
@@ -34,6 +39,6 @@ No momento, estou focado em desenvolver **projetos pessoais**, com o objetivo de
 
 ---
 
-Obrigado por visitar meu perfil! 
-Sinta-se à vontade para acompanhar meus projetos.
+Thank you for visiting my profile!
+Feel free to follow my projects.
 
