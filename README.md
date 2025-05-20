@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 My name is **Filipe Rangel**.
 
@@ -11,17 +11,17 @@ At the moment, I am focused on developing **personal projects**, with the aim of
 ---
 ## 🎯 Current goals
 
-- 💡 Develop projects applying AI in the real world.
+- Develop projects applying AI in the real world.
 
-- 📚 Improve knowledge in applied Statistics.
+- Improve knowledge in applied Statistics.
 
-- 🧪 Explore more Machine Learning techniques.
+- Explore more Machine Learning techniques.
 
-- 🎓 I intend to pursue a postgraduate degree in **Data Science**.
+- I intend to pursue a postgraduate degree in **Data Science**.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Basic Statistics using **R** software.
 - What is data science? from IBM
