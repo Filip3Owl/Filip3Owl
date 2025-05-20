@@ -32,7 +32,7 @@ At the moment, I am focused on developing **personal projects**, with the aim of
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filiperangelambrosio/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:solarcubix@gmail.com)
