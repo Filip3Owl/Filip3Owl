@@ -9,7 +9,7 @@ I live in **Florianópolis - SC**, and I am passionate about **Statistics** and 
 At the moment, I am focused on developing **personal projects**, with the aim of improving my practical skills in **Artificial Intelligence**.
 
 ---
-## 🎯 Current goals
+## Current goals
 
 - Develop projects applying AI in the real world.
 
