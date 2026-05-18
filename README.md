@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Filipe Rangel</h1>
 <h3 align="center">Data Scientist · Machine Learning Engineer · Deep Learning Enthusiast</h3>
 
 <p align="center">
@@ -6,8 +6,6 @@
     <img src="https://img.shields.io/badge/Portfolio-filiperangel.pro-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
-
-<br/>
 
 ---
 
@@ -19,14 +17,16 @@
   </a>
 </p>
 
-<br/>
+---
 
 ### Language
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Machine Learning & Deep Learning
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -37,6 +37,7 @@
 </p>
 
 ### Data Analysis & Visualization
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -46,6 +47,7 @@
 </p>
 
 ### Tools & Environment
+
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
@@ -53,4 +55,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
