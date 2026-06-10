@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="filipexd.pythonanywhere.com">
-    <img src="https://img.shields.io/badge/Portfolio-filiperangel.pro-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-filipexd.pythonanywhere.com-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
