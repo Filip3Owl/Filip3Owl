@@ -1,12 +1,6 @@
 <h1 align="center">Filipe Rangel</h1>
 <h3 align="center">Data Scientist · Machine Learning Engineer · Deep Learning Enthusiast</h3>
 
-<p align="center">
-  <a href="filipexd.pythonanywhere.com">
-    <img src="https://img.shields.io/badge/Portfolio-filipexd.pythonanywhere.com-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## Tech Stack
